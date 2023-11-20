@@ -1,0 +1,92 @@
+@media screen and (max-width: 1730px) {
+  
+  .flex-container-reviews1 {
+    flex-wrap: wrap;
+  }
+  
+  .flex-container-reviews2 {
+    flex-wrap: wrap;
+  }
+
+  .flex-item-reviews1 {
+    width: 750px;
+    padding-top: 80px;
+  }
+
+  .flex-item-reviews2 {
+    width: 750px;
+    padding-top: 100px;
+  }
+
+  .reviews3 {
+    width: 1450px;
+    padding-top: 145px;
+  }
+
+  .reviews6 {
+    width: 1450px;
+    padding-top: 135px;
+    margin-top: -2px;
+  }
+
+  .null-podval {
+    width: 1080px;
+  }
+
+}
+
+@media screen and (max-width: 1550px) {
+  
+  .flex-item-reviews1 {
+    width: 950px;
+    padding-top: 120px;
+  }
+
+  .flex-item-reviews2 {
+    width: 950px; 
+    padding-top: 120px;
+  }
+
+  .reviews1 {
+    padding-top: 110px;
+  }
+
+  .reviews5 {
+    margin-top: -3px;
+  }
+
+  .reviews6 {
+    padding-top: 110px;
+  }
+
+  .null-podval {
+    width: 780px;
+  }
+
+}
+
+@media screen and (max-width: 1200px) {
+ 
+  .flex-item-reviews1 {
+    width: 800px;
+    padding-top: 100px;
+  }
+
+  .flex-item-reviews2 {
+    width: 800px; 
+    padding-top: 100px;
+  }
+
+  .reviews2 {
+    padding-top: 120px;
+  }
+
+  .null-header {
+    display: none;
+  }
+
+  .null-podval {
+    width: 480px;
+  }
+
+}
