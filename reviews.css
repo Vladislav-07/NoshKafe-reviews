@@ -6,12 +6,12 @@
 
 @font-face {
   font-family: hoshkafe-kastomize3d;
-  src: url(../fonts/ofont.ru_Riffic.ttf);
+  src: url(fonts/ofont.ru_Riffic.ttf);
 }
 
 @font-face {
   font-family: text-kastomize3d;
-  src: url(../fonts/ofont.ru_Geologica.ttf);
+  src: url(fonts/ofont.ru_Geologica.ttf);
 }
 
 body, html {
